@@ -1,0 +1,12 @@
+base_url = "https://waynee95.me"
+title = "waynee95"
+description = "my personal website"
+generate_feed = true
+
+[markdown]
+highlight_code = true
+highlight_theme = "dracula"
+render_emoji = true
+external_links_target_blank = true
+external_links_no_follow = true
+smart_punctuation = true
