@@ -9,7 +9,7 @@
   <p>
     <a href="{{ post.permalink }}">{{ post.title }}</a><br>
     <i>
-      {{ post.date }} • 
+      {{ post.date | date(format="%d %b %Y") }} • {% if post.updated %}updated {{ post.updated | date(format="%d %b %Y") }} • {% endif %}
       {{ post.reading_time }} minute{{ post.reading_time | pluralize }} required
     </i>
   </p>

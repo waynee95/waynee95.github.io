@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
 <p><i>
-  {{ page.date }} •
+  {{ page.date | date(format="%d %b %Y") }} • {% if page.updated %}updated {{ page.updated | date(format="%d %b %Y") }} • {% endif %} 
   {{ page.reading_time }} minute{{ page.reading_time | pluralize }} required •
   <a href="https://github.com/waynee95">waynee95</a>
 </i></p>
