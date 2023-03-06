@@ -1,7 +1,7 @@
-+++
-title = "about"
-template = "home.html"
-+++
+---
+title: "about"
+template: "home.html"
+---
 
 # about
 
