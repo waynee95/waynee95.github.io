@@ -1,3 +1,4 @@
+{% import 'macros/math.html' as macros_math %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +7,10 @@
   <title>waynee95 / {% if page.title %}{{ page.title }}{% if section.title %}{{ section.title }}{% endif %}{% endif %}</title>
   <link rel="stylesheet" href="https://necolas.github.io/normalize.css/latest/normalize.css" />
   <link rel="stylesheet" href="/style.css" />
+  <link rel="stylesheet" href="/isabelle.css" />
   {% block extra_head %} {% endblock extra_head %}
+  {% block math %}{{ macros_math::math() }}{% endblock math %}
+  <script src="/footnote-backlink.js"></script>
 </head>
 <body style="overflow-x: hidden">
 <div class="header">
