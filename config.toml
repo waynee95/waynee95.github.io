@@ -2,6 +2,7 @@ base_url = "https://waynee95.me"
 title = "waynee95"
 description = "my personal website"
 generate_feed = true
+sort_by = "date"
 
 [markdown]
 highlight_code = true
@@ -10,3 +11,6 @@ render_emoji = true
 external_links_target_blank = true
 external_links_no_follow = true
 smart_punctuation = true
+
+[extra]
+math = true
