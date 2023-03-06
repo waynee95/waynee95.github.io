@@ -22,12 +22,13 @@ topics.
 - :book: Programming Language Concepts and Paradigms by David A. Watt
 - :book: [Programming Languages: Principles and Paradigms](https://link.springer.com/book/10.1007/978-1-84882-914-5) by Gabrielli and Martini
 - :book: [Concepts, Techniques, and Models of Computer Programming](https://www.info.ucl.ac.be/~pvr/book.html) by Van Roy and Haridi
+- :book: [Programming Language Concepts, 2nd edition](https://www.itu.dk/people/sestoft/plc/) by Peter Sestoft
 
 **Semantics of Programming Languages**
 
 - :clipboard: [Programming Language Semantics](https://people.cs.ksu.edu/~schmidt/705a/Lectures/chapter.pdf) by David A. Schmidt
 - :book: [Semantics with Applications - An Appetizer](https://link.springer.com/book/10.1007/978-1-84628-692-6) by Nielson and Nielson
-- :book: [Semantics of Programming Languages](https://mitpress.mit.edu/9780262570954/semantics-of-programming-languages/) Carl A. Gunter
+- :book: [Semantics of Programming Languages](https://mitpress.mit.edu/9780262570954/semantics-of-programming-languages/) by Carl A. Gunter
 
 **Programming Language Theory**
 
