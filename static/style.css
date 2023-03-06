@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
 
 :root{
@@ -12,7 +12,7 @@ html {
 }
 
 body {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Golos Text', sans-serif;
   color: #222;
   background-color: #eee;
   line-height: 1.3;
@@ -60,6 +60,14 @@ a {
 
 .nolink {
   all: unset;
+}
+
+p code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: var(--primary);
+    background-color: #f9f9f9;
+    border-radius: 4px;
 }
 
 code {
