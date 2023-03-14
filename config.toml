@@ -13,4 +13,5 @@ external_links_no_follow = true
 smart_punctuation = true
 
 [extra]
+github_repo = "https://github.com/waynee95/waynee95.github.io"
 math = true
