@@ -1,7 +1,6 @@
 ---
 title: Reading List
 date: 2023-03-02
-slug: reading-list
 #updated: 2023-03-04
 ---
 
