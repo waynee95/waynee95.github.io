@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>waynee95</title>
+    <subtitle>my personal website</subtitle>
+    <link href="https://waynee95.me/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://waynee95.me"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-03-25T00:00:00+00:00</updated>
+    <id>https://waynee95.me/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Reading List</title>
+        <published>2023-03-02T00:00:00+00:00</published>
+        <updated>2023-03-25T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://waynee95.me/readinglist/" type="text/html"/>
+        <id>https://waynee95.me/readinglist/</id>
+        
+        <content type="html">&lt;p&gt;This is just a personal list of papers, books and other materials on certain
+topics.&lt;&#x2F;p&gt;
+&lt;p&gt;📖 = Book, 📃 = Research Paper, 📋 = Lecture Notes, 🎓 = Thesis&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Compilers&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;dickgrune.com&#x2F;Books&#x2F;MCD_2nd_Edition&#x2F;&quot;&gt;Modern Compiler Design, 2nd ed&lt;&#x2F;a&gt; by Grune et al.&lt;&#x2F;li&gt;
+&lt;li&gt;📖 Essentials of Compilation by Jeremy Siek (&lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.dropbox.com&#x2F;s&#x2F;mfxtojk4yif3toj&#x2F;python-book.pdf?dl=1&quot;&gt;draft version&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;📖 Crafting a Compiler by Fisher, Cytron and LeBlanc&lt;&#x2F;li&gt;
+&lt;li&gt;📖 Engineering a Compiler by Cooper and Torczon&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Principles of Programming Languages&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 Programming Language Concepts and Paradigms by David A. Watt&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;link.springer.com&#x2F;book&#x2F;10.1007&#x2F;978-1-84882-914-5&quot;&gt;Programming Languages: Principles and Paradigms&lt;&#x2F;a&gt; by Gabrielli and Martini&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.info.ucl.ac.be&#x2F;~pvr&#x2F;book.html&quot;&gt;Concepts, Techniques, and Models of Computer Programming&lt;&#x2F;a&gt; by Van Roy and Haridi&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.itu.dk&#x2F;people&#x2F;sestoft&#x2F;plc&#x2F;&quot;&gt;Programming Language Concepts, 2nd edition&lt;&#x2F;a&gt; by Peter Sestoft&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Semantics of Programming Languages&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;📋 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;people.cs.ksu.edu&#x2F;~schmidt&#x2F;705a&#x2F;Lectures&#x2F;chapter.pdf&quot;&gt;Programming Language Semantics&lt;&#x2F;a&gt; by David A. Schmidt&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;link.springer.com&#x2F;book&#x2F;10.1007&#x2F;978-1-84628-692-6&quot;&gt;Semantics with Applications - An Appetizer&lt;&#x2F;a&gt; by Nielson and Nielson&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;9780262570954&#x2F;semantics-of-programming-languages&#x2F;&quot;&gt;Semantics of Programming Languages&lt;&#x2F;a&gt; by Carl A. Gunter&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Programming Language Theory&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.cis.upenn.edu&#x2F;~bcpierce&#x2F;tapl&#x2F;&quot;&gt;Types and Programming Languages&lt;&#x2F;a&gt; by Benjamin C. Pierce&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.cs.cmu.edu&#x2F;~rwh&#x2F;pfpl&#x2F;&quot;&gt;Practical Foundations of Programming Languages&lt;&#x2F;a&gt; by Robert Harper&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;9780262201759&#x2F;design-concepts-in-programming-languages&#x2F;&quot;&gt;Design Concepts in Programming Languages&lt;&#x2F;a&gt; by Turbak and Gifford&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Type Theory&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;📃 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;lucacardelli.name&#x2F;Papers&#x2F;TypeSystems.pdf&quot;&gt;Type Systems&lt;&#x2F;a&gt; by Luca Cardelli&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.win.tue.nl&#x2F;~wsinrpn&#x2F;book_type_theory.htm&quot;&gt;Type Theory and Formal Proof&lt;&#x2F;a&gt; by Nederpelt and Geuvers&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2212.11082&quot;&gt;Introduction to Homotopy Type Theory&lt;&#x2F;a&gt; by Egbert Rijke&lt;&#x2F;li&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.cambridge.org&#x2F;core&#x2F;books&#x2F;categories-for-types&#x2F;258841251C62FED1DACD20884E59E61C&quot;&gt;Categories for Types&lt;&#x2F;a&gt; by Roy L. Crole&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Program Analysis&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;9780262043410&#x2F;introduction-to-static-analysis&#x2F;&quot;&gt;Introduction to Static Analysis&lt;&#x2F;a&gt; by Rival and Yi&lt;&#x2F;li&gt;
+&lt;li&gt;📋 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;cs.au.dk&#x2F;~amoeller&#x2F;spa&#x2F;&quot;&gt;Static Program Analysis&lt;&#x2F;a&gt; by Møller and Schwartzbach&lt;&#x2F;li&gt;
+&lt;li&gt;📃 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.di.ens.fr&#x2F;~rival&#x2F;papers&#x2F;fnt15.pdf&quot;&gt;Static Analysis and Verification of Aerospace Software by Abstract Interpretation&lt;&#x2F;a&gt; by Bertrane et al.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;High Performance Computing&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mitpress.mit.edu&#x2F;9780262528818&#x2F;programming-models-for-parallel-computing&#x2F;&quot;&gt;Programming Models for Parallel Computing&lt;&#x2F;a&gt; edited by P. Balaji&lt;&#x2F;li&gt;
+&lt;li&gt;📋 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.cs.fsu.edu&#x2F;~engelen&#x2F;courses&#x2F;HPC&#x2F;&quot;&gt;High-Performance Computing and Scientific Computing&lt;&#x2F;a&gt; by van Engelen&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Formal Languages and Automata Theory&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;📖 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;dickgrune.com&#x2F;Books&#x2F;PTAPG_2nd_Edition&#x2F;&quot;&gt;Parsing Techniques - A Practical Guide&lt;&#x2F;a&gt; by Grune and Jacobs&lt;&#x2F;li&gt;
+&lt;li&gt;📃 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;pdf&#x2F;10.1145&#x2F;321239.321249&quot;&gt;Derivatives of Regular Expressions&lt;&#x2F;a&gt; by Brzozowski&lt;&#x2F;li&gt;
+&lt;li&gt;📃 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.ccs.neu.edu&#x2F;home&#x2F;turon&#x2F;re-deriv.pdf&quot;&gt;Regular-expression derivatives reexamined&lt;&#x2F;a&gt; by Owens et al.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Mathematics&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;📋 &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.cs.yale.edu&#x2F;homes&#x2F;aspnes&#x2F;classes&#x2F;202&#x2F;notes.pdf&quot;&gt;Notes on Discrete Mathematics&lt;&#x2F;a&gt; by James Aspnes&lt;&#x2F;li&gt;
+&lt;li&gt;📖 A Book of Abstract Algebra by Charles C. Pinter&lt;&#x2F;li&gt;
+&lt;li&gt;📖 Computability Theory: An Introduction to Recursion Theory by Enderton&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Hello World</title>
+        <published>2023-02-23T00:00:00+00:00</published>
+        <updated>2023-02-23T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://waynee95.me/hello-world/" type="text/html"/>
+        <id>https://waynee95.me/hello-world/</id>
+        
+        <content type="html">&lt;p&gt;This is yet another attempt at having a proper website.&lt;&#x2F;p&gt;
+&lt;p&gt;It is built using &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;zola&lt;&#x2F;a&gt; and hosted on &lt;a rel=&quot;noopener nofollow&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pages.github.com&#x2F;&quot;&gt;Github Pages&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;iframe src=&quot;https:&#x2F;&#x2F;giphy.com&#x2F;embed&#x2F;YnM7Gdb8aPRMp613l9&quot; width=&quot;480&quot; height=&quot;360&quot; frameBorder=&quot;0&quot; class=&quot;giphy-embed&quot; allowFullScreen&gt;&lt;&#x2F;iframe&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;giphy.com&#x2F;gifs&#x2F;bye-k-YnM7Gdb8aPRMp613l9&quot;&gt;via GIPHY&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
