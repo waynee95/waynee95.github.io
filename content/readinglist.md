@@ -1,7 +1,7 @@
 ---
 title: Reading List
 date: 2023-03-02
-#updated: 2023-03-04
+updated: 2023-03-25
 ---
 
 This is just a personal list of papers, books and other materials on certain
@@ -11,10 +11,10 @@ topics.
 
 **Compilers**
 
+- :book: [Modern Compiler Design, 2nd ed](https://dickgrune.com/Books/MCD_2nd_Edition/) by Grune et al.
 - :book: Essentials of Compilation by Jeremy Siek ([draft version](https://www.dropbox.com/s/mfxtojk4yif3toj/python-book.pdf?dl=1))
 - :book: Crafting a Compiler by Fisher, Cytron and LeBlanc
 - :book: Engineering a Compiler by Cooper and Torczon
-- :book: Advanced Compiler Design and Implementation by Steven Muchnick
 
 **Principles of Programming Languages**
 
