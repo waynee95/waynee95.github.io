@@ -1,6 +1,7 @@
 ---
 title: "about"
 template: "home.html"
+sort_by: "date"
 ---
 
 # about
